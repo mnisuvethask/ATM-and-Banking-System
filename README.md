@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230278
+# Name: Suvetha K M S
+# Date: 17.11.2026
 
 
 # AIM:
